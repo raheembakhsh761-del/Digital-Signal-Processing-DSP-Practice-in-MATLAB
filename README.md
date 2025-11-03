@@ -34,4 +34,3 @@ The repository includes MATLAB programs and scripts related to:
 
 ---
 
-## 📂 Repository Structure
